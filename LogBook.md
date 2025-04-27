@@ -11,10 +11,10 @@
 
 | Sr. No | Name of Student |
 |:---|:---|
-| 1 | |
-| 2 | |
-| 3 | |
-| 4 | |
+| 1 | Purva Sachin Sonaje |
+| 2 | Swamini Dipak Patil|
+| 3 | Vaishnavi Sunil Borase|
+| 4 | Jagruti Prashant Desale|
 
 ### 🧑‍🏫 Under the guidance of: **Dr. P.S. Sanjekar**
 
@@ -98,4 +98,4 @@ Submitted the final report, GitHub repository, project documentation, and SIH su
 
 ---
 
-# 💚 Thank You!
+
