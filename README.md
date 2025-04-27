@@ -1,6 +1,7 @@
 # 📚 Shiksha
-Shiksha is a technology-driven initiative designed to address these challenges by leveraging Artificial Intelligence (AI), mobile applications, and digital platforms to identify at-risk students, provide personalized support, and engage communities, thereby enhancing student retention and supporting a holistic approach to education
-
+Student dropout rates in India remain a significant challenge, particularly at the secondary education level. Factors such as socio-economic disparities, lack of infrastructure, and limited access to quality education contribute to this issue. The National Education Policy (NEP) 2020 emphasizes the need for inclusive, equitable, and quality education, aiming for universal access and improved retention rates. ​
+Extramarks.
+Shiksha is a technology-driven initiative designed to address these challenges by leveraging Artificial Intelligence (AI), mobile applications, and digital platforms to identify at-risk students, provide personalized support, and engage communities, thereby enhancing student retention and supporting a holistic approach to education.
 ## 🚀 Description
 Student dropout rates in India are influenced by socio-economic and educational factors, disproportionately affecting marginalized communities. Reducing dropout rates is essential for equitable education and socio-economic development. The National Education Policy (NEP) 2020 highlights the need to address student retention and ensure quality education at least up to the secondary level.
 
