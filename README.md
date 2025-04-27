@@ -10,7 +10,13 @@ Student dropout rates in India are influenced by socio-economic and educational 
 ---
 
 ## 🎯 Objective
-To develop innovative software solutions that identify at-risk students, provide personalized support, and enhance community engagement to reduce dropout rates, ensuring equitable and quality education in alignment with NEP 2020.
+**Identify At-Risk Students:** Utilize AI algorithms to analyze student data and predict potential dropouts.​
+
+**Provide Personalized Support:** Offer tailored interventions to address individual student needs.​
+
+**Enhance Community Engagement:** Involve parents, teachers, and local communities in supporting student retention.​
+
+**Align with NEP 2020 Goals**: Contribute to achieving universal education access and improved student retention rates.
 
 ---
 
@@ -61,7 +67,8 @@ To develop innovative software solutions that identify at-risk students, provide
 ---
 
 ## 🌟 Impact
-By implementing these software solutions, **Shiksha** aims to significantly reduce dropout rates by tackling the key factors contributing to student attrition. These solutions align with **NEP 2020's** vision of universal education access and improved student retention.
+The Shiksha initiative aims to significantly reduce student dropout rates in India by addressing key factors contributing to student attrition. By implementing AI-driven early warning systems, personalized learning platforms, and community engagement tools, Shiksha aligns with the NEP 2020's vision of universal education access and improved student retention.​
+These solutions focus on enhancing student engagement, providing timely interventions, and fostering a supportive learning environment, thereby contributing to the achievement of NEP 2020's goals of inclusive and equitable quality education.
 
 ---
 
