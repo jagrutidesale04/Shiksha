@@ -142,9 +142,13 @@ The "Shiksha" project delivers a technological solution aimed at tackling India'
 # 📚 References
 
 [1] Ministry of Education, "National Education Policy 2020: Ensuring Quality Education for All," Government of India, 2020. Retrieved from https://www.education.gov.in
+
 [2] Kumar, R. "AI-Driven Early Warning Systems: A Tool for Predicting and Preventing Student Dropouts," Journal of Educational Technology, Springer, 2022, 15(3), pp. 45-59.
+
 [3] Gupta, P., & Verma, A. "Mobile Learning Platforms for Remote Education: Enhancing Retention and Engagement," International Journal of Educational Technology, Elsevier, 2021, 18(4), pp. 78-92.
+
 [4] Wilson, J. "Community-Based Learning Platforms: Supporting Education in Rural Areas," Journal of Community Education, Wiley, 2020, 10(2), pp. 125-138.
+
 [5] Sharma, M. "Financial Support Systems for Students: Leveraging Technology to Reduce Economic Barriers," Educational Finance Review, Springer, 2021, 22(1), pp. 50-63.
 
 
