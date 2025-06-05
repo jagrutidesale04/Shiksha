@@ -16,7 +16,7 @@
 | 3 | Vaishnavi Sunil Borase|
 | 4 | Jagruti Prashant Desale|
 
-### 🧑‍🏫 Under the guidance of: **Dr. P.S. Sanjekar**
+### 🧑‍🏫 Under the guidance of: **Dr. P. S. Sanjekar**
 
 ---
 
